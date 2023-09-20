@@ -46,13 +46,13 @@ Before you begin, ensure you have met the following requirements:
 2- Access the application in your web browser at http://localhost:5000
 
 ## Project Structure
-. testapp => Contains the Flask application code
-  . app.py =>  Initializes the Flask app and configures routes
-  . auth.py => Contains the  paths of application that require user login 
-  . database.py => Contains the database congfigurations for our flask application
-  . docker-compose.yml => Docker Compose configuration for running the app and MongoDB
-  . Dockerfile => Dockerfile configurations for containerizing and making the docker image of our application
-  . main.py => Contains the  paths of application that do not require user login
-  . requirements.txt => Contains the dependencies for our Flask Application
-  . user.py => Contains the User class for storing user data required by flask_login
+- testapp -> Contains the Flask application code
+  - app.py =>  Initializes the Flask app and configures routes
+  - auth.py => Contains the  paths of application that require user login 
+  - database.py => Contains the database congfigurations for our flask application
+  - docker-compose.yml => Docker Compose configuration for running the app and MongoDB
+  - Dockerfile => Dockerfile configurations for containerizing and making the docker image of our application
+  - main.py => Contains the  paths of application that do not require user login
+  - requirements.txt => Contains the dependencies for our Flask Application
+  - user.py => Contains the User class for storing user data required by flask_login
 
