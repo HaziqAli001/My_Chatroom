@@ -41,9 +41,10 @@ Before you begin, ensure you have met the following requirements:
    docker-compose up --build
 
 ## Usage
-1- Start application using the following command:
-  docker-compose up
-2- Access the application in your web browser at http://localhost:5000
+1. Start application using the following command:
+   docker-compose up
+  
+2. Access the application in your web browser at http://localhost:5000
 
 ## Project Structure
 - testapp -> Contains the Flask application code
