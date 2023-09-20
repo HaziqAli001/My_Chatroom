@@ -1,9 +1,5 @@
 # My_Chatroom
-My Chatroom is web based chat application for chat application over web. It is based on Flask framework
-
-# Real-Time Chat Application with Flask and MongoDB
-
-This is a simple real-time chat application built with Flask, MongoDB, and WebSocket support. It allows users to create accounts, log in, join chat rooms, and send and receive messages in real time.
+This is a simple real-time chat application built with Flask, MongoDB, and WebSocket support. It allows users to create accounts, log in,  and send and receive messages in real time.
 
 ## Table of Contents
 
